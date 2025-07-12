@@ -1,0 +1,7 @@
+/app.py
+/query_data_old_doesntwork.py
+/query_pipeline.py
+__pycache__/
+*.pyc
+.env
+venv/
