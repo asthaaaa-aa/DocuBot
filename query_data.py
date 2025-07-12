@@ -8,7 +8,7 @@ import os
 
 
 os.environ["OPENAI_API_BASE"] = "https://openrouter.ai/api/v1"
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"]
 
 CHROMA_PATH = "chroma"
 
