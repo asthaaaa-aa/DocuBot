@@ -34,7 +34,7 @@ Answer the question based on the above context: {question}
 """
 
 # Streamlit UI
-st.title("📘 DocuBot - Chatbot for your Documents!")
+st.title("📘 DocuBot - Chat with your Documents!")
 
 # --- File source selection ---
 st.subheader("Choose a Markdown File")
