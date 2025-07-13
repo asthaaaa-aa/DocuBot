@@ -8,3 +8,4 @@ chromadb
 huggingface-hub
 transformers
 torch
+sentence_transformers
