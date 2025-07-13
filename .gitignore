@@ -1,6 +1,4 @@
-/app.py
-/query_data_old_doesntwork.py
-/query_pipeline.py
+old files/
 __pycache__/
 *.pyc
 .env
